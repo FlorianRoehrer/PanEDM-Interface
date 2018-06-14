@@ -1,0 +1,28 @@
+# Test HV effects
+#Subsystem ID; \t Command; \t                                       comment
+
+
+#HV;		           SET +1000.;		                                Set the Voltage to 1kV
+#WAIT;              1;                                               Waiting
+#HV;		       Voltage 1000 ?;	                                Wait for HV to reach 1kV
+
+
+FG;                 LOAD Sine, A=1, f=12.5;                       Output Sine
+
+
+#include 2;        ./Macrofiles/Macro2.txt;                         Load other macro file
+WAIT;               10;                                               Waiting
+#fDAQ;              START;			                                Start Fast DAQ recording
+#fDAQ;             RUNNING ?;		                                Check if DAQ is recording
+#fDAQ;             START;			                                Start Fast DAQ recording
+#fDAQ;             RUNNING ?;		                                Check if DAQ is recording
+#fDAQ;             START;			                                Start Fast DAQ recording
+#fDAQ;             RUNNING ?;		                                Check if DAQ is recording
+FG;                 STOP;                                           FG Stop
+#WAIT;              2;                                               Wait 10 seconds
+#fDAQ;             START;			                                Start Fast DAQ recording
+#fDAQ;             RUNNING ?;		                                Check if DAQ is recording
+fDAQ;              STOP;			                                Stop Fast DAQ
+#DET;               320s:EDM_run_2017:HV+150kV:ADC150:DISCRIM122;    Start Detectors
+#WAIT;               2;                                              Wait
+#FG;                 Hallo;                                          Wrong command

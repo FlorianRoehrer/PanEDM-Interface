@@ -1,0 +1,54 @@
+2018-06-08_16:55:58 : User logged in. The current user is Florian
+2018-06-08_16:56:15 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:56:16 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:56:20 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:56:21 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:56:21 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:56:21 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:56:22 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:56:22 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:56:22 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:56:22 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:56:31 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:56:32 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:56:32 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:56:32 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:56:33 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:56:33 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:56:33 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:56:33 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:56:33 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:56:43 : Measurement run #12 started!
+2018-06-08_16:56:43 : FG; LOAD Sine, A=1, f=12.5; #Output Sine
+2018-06-08_16:56:43 : Waiting for 10 seconds!
+2018-06-08_16:56:53 : FG; STOP; #FG Stop
+2018-06-08_16:56:53 : fDAQ; STOP; #Stop Fast DAQ
+2018-06-08_16:56:53 : Measurement run #12 finished! The total run time was 0:00:10
+2018-06-08_16:57:03 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro2.txt loaded!
+2018-06-08_16:57:15 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:57:24 : Exiting the program!
+2018-06-08_16:59:03 : User logged in. The current user is jf
+2018-06-08_16:59:17 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro2.txt loaded!
+2018-06-08_16:59:23 : Measurement run #13 started!
+2018-06-08_16:59:23 : HV; SET -1000.; #Sets the Voltage to 1kV
+2018-06-08_16:59:23 : Measurement run #13 finished! The total run time was 0:00:00
+2018-06-08_16:59:31 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro2.txt loaded!
+2018-06-08_16:59:32 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro2.txt loaded!
+2018-06-08_16:59:32 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro2.txt loaded!
+2018-06-08_16:59:32 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro2.txt loaded!
+2018-06-08_16:59:32 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro2.txt loaded!
+2018-06-08_16:59:32 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro2.txt loaded!
+2018-06-08_16:59:32 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro2.txt loaded!
+2018-06-08_16:59:33 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro2.txt loaded!
+2018-06-08_16:59:33 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro2.txt loaded!
+2018-06-08_16:59:43 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_16:59:46 : Measurement run #14 started!
+2018-06-08_16:59:46 : FG; LOAD Sine, A=1, f=12.5; #Output Sine
+2018-06-08_16:59:46 : Waiting for 10 seconds!
+2018-06-08_16:59:55 : FG; STOP; #FG Stop
+2018-06-08_16:59:55 : fDAQ; STOP; #Stop Fast DAQ
+2018-06-08_16:59:55 : Measurement run #14 finished! The total run time was 0:00:09
+2018-06-08_17:00:40 : Exiting the program!
+2018-06-08_17:01:07 : User logged in. The current user is jf
+2018-06-08_17:02:26 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-08_17:03:02 : Exiting the program!

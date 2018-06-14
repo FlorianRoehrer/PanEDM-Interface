@@ -1,0 +1,2 @@
+2018-06-11_12:15:22 : User logged in. The current user is jfkj
+2018-06-11_12:15:46 : Macrofile /Users/Florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!

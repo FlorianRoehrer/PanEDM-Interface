@@ -1,0 +1,5 @@
+HV;		          ./command_files/HV.txt;
+fDAQ;             ./command_files/fDAQ.txt;
+DET;              ./command_files/detfile.mac;
+FG;               ./command_files/FG.txt;
+

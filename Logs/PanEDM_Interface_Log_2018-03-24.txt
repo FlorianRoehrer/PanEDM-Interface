@@ -1,0 +1,11 @@
+2018-03-24_19:35:37 : User logged in. The current user is Florian
+2018-03-24_19:35:48 : Macrofile /home/Florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-03-24_19:35:55 : Measurement run #1 started!
+2018-03-24_19:35:55 : FG; LOAD Sine, A=1, f=12.5; #Output Sine
+2018-03-24_19:35:55 : Waiting for 10 seconds!
+2018-03-24_19:36:05 : FG; STOP; #FG Stop
+2018-03-24_19:36:05 : fDAQ; STOP; #Stop Fast DAQ
+2018-03-24_19:36:05 : Measurement run #1 finished! The total run time was 0:00:09
+2018-03-24_19:36:09 : Exiting the program!
+2018-03-24_19:38:08 : User logged in. The current user is hfh
+2018-03-24_19:38:38 : Exiting the program!

@@ -1,0 +1,29 @@
+2018-06-06_12:23:14 : User logged in. The current user is Florian
+2018-06-06_12:32:09 : Macrofile /home/Florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-06_12:41:34 : Measurement run #7 started!
+2018-06-06_12:41:34 : FG; LOAD Sine, A=1, f=12.5; #Output Sine
+2018-06-06_12:41:34 : Waiting for 10 seconds!
+2018-06-06_12:41:44 : FG; STOP; #FG Stop
+2018-06-06_12:41:44 : fDAQ; STOP; #Stop Fast DAQ
+2018-06-06_12:41:44 : Measurement run #7 finished! The total run time was 0:00:10
+2018-06-06_12:42:05 : Measurement run #8 started!
+2018-06-06_12:42:05 : FG; LOAD Sine, A=1, f=12.5; #Output Sine
+2018-06-06_12:42:05 : Waiting for 10 seconds!
+2018-06-06_12:42:16 : FG; STOP; #FG Stop
+2018-06-06_12:42:16 : fDAQ; STOP; #Stop Fast DAQ
+2018-06-06_12:42:16 : Measurement run #8 finished! The total run time was 0:00:10
+2018-06-06_12:45:18 : Macrofile /home/Florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-06_12:45:18 : Macrofile /home/Florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-06_12:45:19 : Macrofile /home/Florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-06_12:45:19 : Macrofile /home/Florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-06_12:45:25 : Macrofile /home/Florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-06_12:45:31 : Exiting the program!
+2018-06-06_12:45:52 : User logged in. The current user is Florian 
+2018-06-06_12:45:59 : Macrofile /home/Florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-06_12:46:50 : Measurement run #9 started!
+2018-06-06_12:46:50 : FG; LOAD Sine, A=1, f=12.5; #Output Sine
+2018-06-06_12:46:50 : Waiting for 10 seconds!
+2018-06-06_12:47:00 : FG; STOP; #FG Stop
+2018-06-06_12:47:00 : fDAQ; STOP; #Stop Fast DAQ
+2018-06-06_12:47:00 : Measurement run #9 finished! The total run time was 0:00:09
+2018-06-06_13:00:33 : Exiting the program!

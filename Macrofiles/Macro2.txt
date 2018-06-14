@@ -1,0 +1,6 @@
+# Test HV effects
+#Subsystem ID; \t Command; \t              comment
+
+
+HV;        SET -1000.;                     Sets the Voltage to 1kV
+

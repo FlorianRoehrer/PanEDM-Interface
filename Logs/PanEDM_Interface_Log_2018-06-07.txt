@@ -1,0 +1,16 @@
+2018-06-07_20:43:59 : User logged in. The current user is Florian
+2018-06-07_20:44:38 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-07_20:44:43 : Macrofile /Users/florian/Python Coding/PanEDM-Interface/current version/Macrofiles/Macro.txt loaded!
+2018-06-07_20:45:40 : Measurement run #10 started!
+2018-06-07_20:45:40 : FG; LOAD Sine, A=1, f=12.5; #Output Sine
+2018-06-07_20:45:40 : Waiting for 10 seconds!
+2018-06-07_20:45:49 : FG; STOP; #FG Stop
+2018-06-07_20:45:49 : fDAQ; STOP; #Stop Fast DAQ
+2018-06-07_20:45:49 : Measurement run #10 finished! The total run time was 0:00:10
+2018-06-07_20:46:14 : Measurement run #11 started!
+2018-06-07_20:46:14 : FG; LOAD Sine, A=1, f=12.5; #Output Sine
+2018-06-07_20:46:15 : Waiting for 10 seconds!
+2018-06-07_20:46:15 : FG; STOP; #FG Stop
+2018-06-07_20:46:16 : fDAQ; STOP; #Stop Fast DAQ
+2018-06-07_20:46:16 : Measurement run #11 finished! The total run time was 0:00:02
+2018-06-07_20:46:23 : Exiting the program!
